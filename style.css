@@ -1,0 +1,171 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* Убираем внутренние отступы */
+ul[class],
+ol[class] {
+  padding: 0;
+}
+
+/* Убираем внешние отступы */
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+ul[class],
+ol[class],
+li,
+figure,
+figcaption,
+blockquote,
+dl,
+dd {
+  margin: 0;
+}
+
+.container1{
+	width: 100vw;
+	height: 100vh;
+    margin: 0;
+    background: url(ФОН.png) no-repeat;
+    background-size: 100% auto;
+
+}
+h1{
+    
+font-family: Juice ITC;
+font-style: normal;
+font-weight: normal;
+font-size: 250px;
+line-height: 297px;
+padding-top: 20%;
+padding-left: 7%;
+color: #FFFFFF;
+}
+.container2{
+    background-color: black;
+    width: 100vw;
+    height: 100vh;
+      margin: 0;
+      padding-top: 5%;
+
+}
+.text1{
+    width: 90%;
+    font-family: Jura;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 43px;
+
+color: #FFFFFF;
+margin-left: 5%;
+text-align: center;
+background-color: rgb(255, 255, 255, 0.15);
+padding-left: 1%;
+padding-bottom: 1%;
+
+}
+.ph{
+ padding-top: 3%;
+ margin-left: 7%;
+ padding-bottom: 3%;
+}
+h2{
+  font-family: Jura;
+Font-size: 36px;
+padding-top:5%;
+width: 70%;
+color: #FFFFFF;
+text-align: center;
+margin-left: 17%;
+
+}
+.ang{
+  padding-top: 12%;
+  width: 50%;
+}
+.cont3{
+  background-color: black;
+  width: 100vw;
+  height: 100vh;
+    margin: 0;
+
+}
+.angtext{
+Font-family:Jura;
+Font-size: 32px;
+Line-height: 40px;
+Line-height: 100%;
+color:#FFFFFF;
+text-align:left;
+width: 45%;
+margin-top: -25%;
+margin-left: 53%;
+background-color: rgb(255, 255, 255, 0.15);
+padding-left: 1%;
+padding-bottom: 1%;
+}
+.blink{
+font-family:Jura;
+Font-style: Regular;
+Font-size: 72px;
+Line-height: 77px;
+Line-height: 100%;
+color: white;
+padding-top: 2%;
+margin-left: 5%;
+}
+.cont4{
+  background-color: black;
+  width: 100vw;
+  height: 100vh;
+    margin: 0;
+}
+.dl{
+  margin-left: 50%;
+  margin-top: 5%;
+}
+.dalek{
+  Font-family:Jura;
+Font-size: 32px;
+Line-height: 40px;
+Line-height: 100%;
+color:#FFFFFF;
+text-align:left;
+width: 45%;
+background-color: rgb(255, 255, 255, 0.15);
+padding-left: 1%;
+padding-bottom: 1%;
+margin-top: -25%;
+}
+.cont5{
+  background-color: black;
+  width: 100vw;
+  height: 100vh;
+    margin: 0;
+}
+.nbibyf{
+  margin-top: -5%;
+  width: 45%;
+}
+.nbi{
+  Font-family: Jura;
+Font-style: Regular;
+Font-size: 36px;
+Line-height: 43px;
+Line-height: 100%;
+color: white;
+background-color: rgb(255, 255, 255, 0.15);
+padding-left: 1%;
+padding-bottom: 1%;
+width: 45%;
+margin-top: -25%;
+margin-left: 53%;
+
+}
